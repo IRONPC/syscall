@@ -1,5 +1,5 @@
 <?php
-
+echo '<hr>'."Conexao com a Base";
 class Conexao {
 
 	protected $server='104.197.186.8';
