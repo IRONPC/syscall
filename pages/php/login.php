@@ -2,6 +2,7 @@
     $date = date("d/m/y");    
     $hora = date('H:i:s');
 
+   echo '<hr>'."Autenticacao do usuario...";
 ?>
 <html>
 	<head>
