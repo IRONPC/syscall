@@ -4,7 +4,7 @@ class Conexao {
 
 	protected $server='104.197.186.8';
 	protected $banco='sgticket';
-	protected $user='scdti';
+	protected $user='root';
 	protected $pwd='Q!w2@2017';
 	protected $conn;
 	protected $teste='<hr>Acessou Método de dentro da classe atraves do this';
